@@ -39,8 +39,7 @@ After the ML model is properly trained with sufficient dataset, we may use viam'
 
 
 ## Demo Video
-
-<video src="videos/video.mp4"></video>
+https://github.com/Spectraorder/night-walker/assets/67780872/a349b608-afa2-4b90-8d09-33199def5a3f
 
 
 
