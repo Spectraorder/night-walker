@@ -4,7 +4,7 @@
 
 ## Overview
 
-Welcome to the Night Walker Robot project! This repository contains the code and resources for a robot equipped with a machine learning model for [object detection](https://docs.viam.com/ml/vision/detection/#configure-an-mlmodel-detector). The Night Walker Robot is designed to navigate and explore environments autonomously, especially in low-light conditions.
+Welcome to the Night Walker Robot project! This repository contains the code and resources for a robot equipped with a machine learning model for [object detection](https://docs.viam.com/ml/vision/detection/). The Night Walker Robot is designed to navigate and explore environments autonomously, especially in low-light conditions.
 
 
 
