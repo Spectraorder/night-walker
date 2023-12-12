@@ -24,13 +24,13 @@ For this project, we used pre-trained object detection model with [TensorFlow Li
 
 By capturing the dataset from the transformer camera module, we are able to gather a large amount of images of runway of the track to label the objects. For better recognition of object, we put several green sticky notes for better visibility of objects:
 
-![dataset](imgs\dataset.png)
+![dataset](imgs/dataset.png)
 
 ### Updating/Training Model 
 
 After setting up certain datasets and bounding boxes for different objects, we need to update the training model from **TensorFlow Lite** with respect to our dataset. What we got from the updated `obj-det.tflite` is essential for our **Autonomous Navigation**.
 
-![trained_model](imgs\trained_model.png)
+![trained_model](imgs/trained_model.png)
 
 ### Model Deployment and Service Configuration
 
@@ -40,7 +40,7 @@ After the ML model is properly trained with sufficient dataset, we may use viam'
 
 ## Demo Video
 
-<video src="E:\Github\night-walker\videos\video.mp4"></video>
+<video src="videos/video.mp4"></video>
 
 
 
